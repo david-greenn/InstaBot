@@ -40,10 +40,12 @@
 To start using **InstaBot**, be sure to key in your instagram login details by specifying your `insta_username` and `insta_password`.
 
 ## Demo
-<div align="center">
-  
-[![InstaBot Demo Video](https://img.youtube.com/vi/muT6VkLi2hQ/hqdefault.jpg)](https://www.youtube.com/watch?v=muT6VkLi2hQ)
-</div>
+
+
+
+https://user-images.githubusercontent.com/8793750/159289677-d2eb42b5-f584-45c7-bc0a-f7d0df96db41.mp4
+
+
 
 ## License
 GPL-3.0 License
