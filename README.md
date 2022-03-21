@@ -42,7 +42,7 @@ To start using **InstaBot**, be sure to key in your instagram login details by s
 ## Demo
 <div align="center">
   
-[![InstaBot Demo Video](https://img.youtube.com/vi/muT6VkLi2hQ/0.jpg)](https://www.youtube.com/watch?v=muT6VkLi2hQ)
+[![InstaBot Demo Video](https://img.youtube.com/vi/muT6VkLi2hQ/hqdefault.jpg)](https://www.youtube.com/watch?v=muT6VkLi2hQ)
 </div>
 
 ## License
