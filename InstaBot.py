@@ -18,7 +18,7 @@
 
 ############################################################################################################
 ############################################################################################################
-# 							        Main program                                                           #
+# 							        Main program                               #
 ############################################################################################################
 ############################################################################################################
 #!/usr/bin/env python3
@@ -53,10 +53,10 @@ session = InstaPy(username=insta_username,
 with smart_run(session):
 		
 	session.set_relationship_bounds(enabled=True,
-									delimit_by_numbers=True,
-									max_followers=14743,
-									min_followers=8253,
-									min_following=287)
+					delimit_by_numbers=True,
+					max_followers=14743,
+					min_followers=8253,
+					min_following=287)
 
 	
 	tags = ['twitter', 'netflix', 'instagram', 'whatsapp', 'tiktok', 'meta','pinterest','buzzfeed','vsco','spotify']
@@ -69,5 +69,4 @@ with smart_run(session):
 
 
 
-	
 	
