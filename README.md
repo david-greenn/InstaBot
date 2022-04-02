@@ -25,7 +25,11 @@
 * [Questions](#questions)
 
 ## Introduction
-**InstaBot** is a Python program that follows a specified amount of users based on tags, or a select amount of followers of a specified user. Additionally, it can also unfollow a designated number of users.
+**InstaBot** is a Python program that can follow a specified amount of users based on tags, or a select amount of followers of a specified user. Additionally, can also unfollow a designated amount of users. 
+
+**Instabot** can also leave a like and comment on a user's posts.
+
+
 
 ## Supported OS
 <ul>
@@ -40,12 +44,9 @@
 To start using **InstaBot**, be sure to key in your instagram login details by specifying your `insta_username` and `insta_password`.
 
 ## Demo
-
-
-
 https://user-images.githubusercontent.com/8793750/159289677-d2eb42b5-f584-45c7-bc0a-f7d0df96db41.mp4
 
-
+https://user-images.githubusercontent.com/8793750/161393502-664694e0-2e5a-4964-84e1-96927d0053d1.mp4
 
 ## License
 GPL-3.0 License
