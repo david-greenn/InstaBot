@@ -25,10 +25,15 @@
 * [Questions](#questions)
 
 ## Introduction
-**InstaBot** is a Python program that can follow a specified amount of users based on tags, or a select amount of followers of a specified user. Additionally, it can unfollow a designated amount of users. 
+If you're looking for a powerful and flexible tool to help you automate your Instagram account, **InstaBot** might be just what you need. Developed in Python, **InstaBot** is a program designed to help you manage your Instagram account with ease.
 
-**Instabot** can also leave a like and comment on a user's posts.
+One of the key features of **InstaBot** is its ability to follow a specified amount of users based on tags or the followers of a particular user. This is an incredibly useful feature if you're looking to grow your following or connect with users who share your interests. You can enter relevant tags, and **InstaBot** will follow those users for you, or you can choose to follow the followers of a particular user.
 
+In addition to following users, **InstaBot** can also unfollow a designated amount of users. This is a great way to keep your following list clean and focused on the users who are most important to you.
+
+But that's not all - **InstaBot** can also help you engage with your followers by leaving likes and comments on their posts. This is a fantastic way to show your followers that you value their content and appreciate their support.
+
+Overall, **InstaBot** is a powerful and versatile tool that can help you manage your Instagram account more efficiently and effectively. Whether you're looking to grow your following or engage more deeply with your existing followers, **InstaBot** has the features you need to succeed.
 
 
 ## Supported OS
@@ -41,7 +46,8 @@
 </ul>
 
 ## Usage
-To start using **InstaBot**, be sure to key in your instagram login details by specifying your `insta_username` and `insta_password`.
+
+In order to begin utilizing **InstaBot** on GitHub, it's important to provide your Instagram login credentials by defining your `insta_username` and `insta_password`.
 
 ## Demo
 https://user-images.githubusercontent.com/8793750/159289677-d2eb42b5-f584-45c7-bc0a-f7d0df96db41.mp4
