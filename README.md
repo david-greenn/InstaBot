@@ -1,6 +1,7 @@
 <div align="center">
 
 ![license](https://img.shields.io/github/license/mohmorsi/Space-Byte?style=flat-square)
+![python logo](https://img.shields.io/badge/Python-87A2D0?style=flat-square&logo=Python&logoColor=white)
 ![made with heart by mohmorsi](https://img.shields.io/badge/made%20with%20%E2%9D%A4%EF%B8%8F%20by-mohmorsi-red?style=flat-square)
 </div>
 
