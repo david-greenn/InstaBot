@@ -59,7 +59,7 @@ https://user-images.githubusercontent.com/8793750/161393502-664694e0-2e5a-4964-8
 GPL-3.0 License
 
 Copyright (c) 2022 Mohamed Morsi
-## Contributors
+## Contributor
 Mohamed Morsi
 ## Questions
 Contact Me:
